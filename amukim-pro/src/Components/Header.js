@@ -104,7 +104,7 @@ function Header() {
                   data-wf-cart-type="rightSidebar"
                   data-wf-cart-query="query Dynamo2"
                   data-wf-page-link-href-prefix=""
-                  class="w-commerce-commercecartwrapper"
+                  className="w-commerce-commercecartwrapper"
                 >
                                 
                                     <div

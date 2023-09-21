@@ -11,7 +11,7 @@ function About() {
               <img src="../assets.website-files.com/63f05cba0a6a4d0a5deb5950/63f1b0cc461fa07846c4df89_about-image.jpg"
                 loading="lazy"
                 sizes="(max-width: 479px) 85vw, (max-width: 767px) 86vw, (max-width: 991px) 498px, (max-width: 1279px) 430.1875px, 498px"
-                srcset="
+                srcSet="
                   https://assets.website-files.com/63f05cba0a6a4d0a5deb5950/63f1b0cc461fa07846c4df89_about-image-p-500.jpg 500w,
                   https://assets.website-files.com/63f05cba0a6a4d0a5deb5950/63f1b0cc461fa07846c4df89_about-image.jpg       500w
                 " alt="About Image" className="about-image" />
@@ -21,15 +21,10 @@ function About() {
             <div className="section-title-block">
               <div className="section-intro-block">About Me</div>
               <h2 className="section-title">
-                We&#x27;re the leading photo studio on the country
+                Transforming Ideas into Compelling Visual Stories through Video
               </h2>
               <p className="section-summary">
-                It is a long established fact that a reader will be distr by
-                the readabll content of a page when looking at its layout. The
-                point of using Lorel Ipsum is that it has a more-or-less
-                normal distribution of letters oppo to using Content here,
-                content here making it look like readabl Englis Many desktop
-                publishing packages and.
+              I specialize in crafting engaging and captivating videos that resonate with audiences. With a keen eye for storytelling and a passion for visual communication, I bring ideas to life through dynamic visuals, compelling narratives, and innovative editing techniques. My mission is to help brands, individuals, and organizations effectively convey their messages and stories through the power of video.
               </p>
               <div className="slider-button-block">
                 <a href="about" className="button-primary slider-button w-inline-block">

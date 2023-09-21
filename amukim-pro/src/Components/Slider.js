@@ -14,12 +14,10 @@ function Slider() {
                                     <div className="single-slider-content">
                                         <div className="slider-intro-text">Welcome To Amukim Production</div>
                                         <h1 className="slider-title">
-                                            We are a digital photography house
+                                            Video Content Creators
                                         </h1>
                                         <p className="slider-summary">
-                                            Lorem ipsum dolor sit amet consectetur adipiscing elit
-                                            faucibus ante velit nunc morbi pretium ut nullam dolor
-                                            pulvinar proin viverra ullamcorper aceget.
+                                        Unlocking creativity through dynamic visuals. I craft engaging video content that captivates, informs, and inspires your audience. Let's tell your story through film.
                                         </p>
                                         <div className="slider-button-block">
                                             <a href="contact" className="button-primary w-inline-block">
@@ -52,12 +50,10 @@ function Slider() {
                                     <div className="single-slider-content">
                                         <div className="slider-intro-text">Welcome To Pixoto World</div>
                                         <h1 className="slider-title">
-                                            We are a digital photography house
+                                            Video Content Creators
                                         </h1>
                                         <p className="slider-summary">
-                                            Lorem ipsum dolor sit amet consectetur adipiscing elit
-                                            faucibus ante velit nunc morbi pretium ut nullam dolor
-                                            pulvinar proin viverra ullamcorper aceget.
+                                        Unlocking creativity through dynamic visuals. I craft engaging video content that captivates, informs, and inspires your audience. Let's tell your story through film.
                                         </p>
                                         <div className="slider-button-block">
                                             <a href="#" className="button-primary w-inline-block">
@@ -90,12 +86,10 @@ function Slider() {
                                     <div className="single-slider-content">
                                         <div className="slider-intro-text">Welcome To Pixoto World</div>
                                         <h1 className="slider-title">
-                                            We are a digital photography house
+                                            Video Content Creators
                                         </h1>
                                         <p className="slider-summary">
-                                            Lorem ipsum dolor sit amet consectetur adipiscing elit
-                                            faucibus ante velit nunc morbi pretium ut nullam dolor
-                                            pulvinar proin viverra ullamcorper aceget.
+                                        Unlocking creativity through dynamic visuals. I craft engaging video content that captivates, informs, and inspires your audience. Let's tell your story through film.
                                         </p>
                                         <div className="slider-button-block">
                                             <a href="#" className="button-primary w-inline-block">

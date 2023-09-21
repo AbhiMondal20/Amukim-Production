@@ -10,7 +10,7 @@ function Service() {
             <div className="section-title-block">
               <div className="section-intro-block">My SERVICES</div>
               <h2 className="section-title">
-                I have the experience to make of your photo
+              I have the experience to make of your Video 
               </h2>
             </div>
           </div>
@@ -45,17 +45,16 @@ function Service() {
                             className="service-slider-single-icon" />
                         </div>
                         <div className="service-slider-single-content">
-                          <a href="service/photography" className="service-slider-single-link-block w-inline-block">
+                          <a href="" className="service-slider-single-link-block w-inline-block">
                             <h3 className="service-slider-single-title">
                               Photography
                             </h3>
                           </a>
                           <p className="service-slider-single-summary">
-                            Our photography packages vary depending on the
-                            type of service you require.
+                            Creating captivating visual stories through the lens, one frame at a time.
                           </p>
                         </div>
-                        <a href="service/photography" className="service-slider-single-link w-inline-block">
+                        <a href="" className="service-slider-single-link w-inline-block">
                           <div className="service-slider-single-link-text">
                             Read More
                           </div>
@@ -86,14 +85,13 @@ function Service() {
                             className="service-slider-single-icon" />
                         </div>
                         <div className="service-slider-single-content">
-                          <a href="service/videography" className="service-slider-single-link-block w-inline-block">
+                          <a href="" className="service-slider-single-link-block w-inline-block">
                             <h3 className="service-slider-single-title">
                               Videography
                             </h3>
                           </a>
                           <p className="service-slider-single-summary">
-                            Our photography packages vary depending on the
-                            type of service you require.
+                          Crafting captivating videos that tell your unique story through expert videography.
                           </p>
                         </div>
                         <a href="#" className="service-slider-single-link w-inline-block">
@@ -127,15 +125,14 @@ function Service() {
                             className="service-slider-single-icon" />
                         </div>
                         <div className="service-slider-single-content">
-                          <a href="service/aerial-photography"
+                          <a href=""
                             className="service-slider-single-link-block w-inline-block">
                             <h3 className="service-slider-single-title">
                               Aerial Photography
                             </h3>
                           </a>
                           <p className="service-slider-single-summary">
-                            Our photography packages vary depending on the
-                            type of service you require.
+                          Specializing in stunning aerial photography to elevate your visual storytelling.
                           </p>
                         </div>
                         <a href="#" className="service-slider-single-link w-inline-block">
@@ -169,14 +166,13 @@ function Service() {
                             className="service-slider-single-icon" />
                         </div>
                         <div className="service-slider-single-content">
-                          <a href="service/flashy-frames" className="service-slider-single-link-block w-inline-block">
+                          <a href="" className="service-slider-single-link-block w-inline-block">
                             <h3 className="service-slider-single-title">
                               Flashy Frames
                             </h3>
                           </a>
                           <p className="service-slider-single-summary">
-                            Our photography packages vary depending on the
-                            type of service you require.
+                          Crafting captivating video content through flashy frames, sparking audience engagement.
                           </p>
                         </div>
                         <a href="#" className="service-slider-single-link w-inline-block">
@@ -210,15 +206,14 @@ function Service() {
                             className="service-slider-single-icon" />
                         </div>
                         <div className="service-slider-single-content">
-                          <a href="service/flash-photography"
+                          <a href=""
                             className="service-slider-single-link-block w-inline-block">
                             <h3 className="service-slider-single-title">
                               Flash Photography
                             </h3>
                           </a>
                           <p className="service-slider-single-summary">
-                            Our photography packages vary depending on the
-                            type of service you require.
+                          Capturing moments in a flash, telling stories through vivid photography.
                           </p>
                         </div>
                         <a href="#" className="service-slider-single-link w-inline-block">
@@ -259,8 +254,7 @@ function Service() {
                             </h3>
                           </a>
                           <p className="service-slider-single-summary">
-                            Our photography packages vary depending on the
-                            type of service you require.
+                          haping stories through innovative video content creation and visual storytelling.
                           </p>
                         </div>
                         <a href="#" className="service-slider-single-link w-inline-block">

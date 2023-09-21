@@ -24,52 +24,32 @@ function Footer() {
                 </p>
                 <div className="footer-social-block">
                   <a
-                    href="https://www.facebook.com/"
+                    href="https://www.facebook.com/AmukimProduction16"
                     target="_blank"
                     className="social-icon-link-block w-inline-block"
                   >
-                    <img
-                      src="https://assets.website-files.com/63f05cba0a6a4d0a5deb5950/63f6e5c1c991f90b9adb0eca_facebook-icon.svg"
-                      loading="lazy"
-                      alt="Social Icon Link Image"
-                      className="social-icon-link-image"
-                    />
+                    <i className="fa-brands fa-facebook"></i>
                   </a>
                   <a
-                    href="https://twitter.com/"
+                    href="https://www.instagram.com/amukimproduction/"
                     target="_blank"
                     className="social-icon-link-block w-inline-block"
                   >
-                    <img
-                      src="https://assets.website-files.com/63f05cba0a6a4d0a5deb5950/63f6e5d10c83402e4a4a0fa5_twitter-icon.svg"
-                      loading="lazy"
-                      alt="Social Icon Link Image"
-                      className="social-icon-link-image"
-                    />
+                    <i className="fa-brands fa-instagram"></i>
+                  </a>
+                  <a
+                    href="https://www.youtube.com/Amukimproduction"
+                    target="_blank"
+                    className="social-icon-link-block w-inline-block"
+                  >
+                   <i className="fa-brands fa-youtube"></i>
                   </a>
                   <a
                     href="https://www.linkedin.com/"
                     target="_blank"
                     className="social-icon-link-block w-inline-block"
                   >
-                    <img
-                      src="https://assets.website-files.com/63f05cba0a6a4d0a5deb5950/63f6e5dd46a353139d52a040_derrible.icon.svg"
-                      loading="lazy"
-                      alt="Social Icon Link Image"
-                      className="social-icon-link-image"
-                    />
-                  </a>
-                  <a
-                    href="https://www.linkedin.com/"
-                    target="_blank"
-                    className="social-icon-link-block w-inline-block"
-                  >
-                    <img
-                      src="https://assets.website-files.com/63f05cba0a6a4d0a5deb5950/63f6e5f170034c633ea7602d_skype-icon.svg"
-                      loading="lazy"
-                      alt="Social Icon Link Image"
-                      className="social-icon-link-image"
-                    />
+                   <i className="fa-brands fa-threads"></i>
                   </a>
                 </div>
                 <div className="webflow-info-block">

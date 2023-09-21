@@ -12,7 +12,7 @@ function Call() {
                 Simple Easy Quick Steps
               </div>
               <h2 className="section-title mb-0px">
-                Need any help with Our photographer?
+                If Need any help Contact to Me?
               </h2>
             </div>
           </div>
@@ -20,11 +20,11 @@ function Call() {
             <div className="call-to-action-info-block-inner">
               <div className="call-to-action-single-info">
                 <div className="call-to-action-info-text">Contact us</div>
-                <a href="#" className="call-to-action-info-link">demo@gmail.com</a>
+                <a href="mailto:amukimproduction@gmail.com" className="call-to-action-info-link">amukimproduction@gmail.com</a>
               </div>
               <div className="call-to-action-single-info">
                 <div className="call-to-action-info-text">Call us 24/7</div>
-                <a href="#" className="call-to-action-info-link">+00 123 456 789</a>
+                <a href="tel:+918906369948" className="call-to-action-info-link">+91 8906369948</a>
               </div>
             </div>
           </div>

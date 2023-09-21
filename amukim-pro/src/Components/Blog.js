@@ -19,7 +19,7 @@ function Blog() {
               <div className="blog-wrapper">
                 <div className="blog-thumbnail">
                   <img alt="Blog  Thumb Image" loading="lazy"
-                    src="../assets.website-files.com/63f1bfe469cfc0a7a042f1e8/63fdc00e1626109135d4e830_1.jpg"
+                    src="images/blog-1.jpg"
                     className="blog-thumb-image" />
                 </div>
                 <div className="blog-content-wrapper">
@@ -29,13 +29,13 @@ function Blog() {
                       loading="lazy" alt="Calnder Icom" className="calender-icon" />
                     <div>March 8, 2023</div>
                   </div>
-                  <a href="post/13-social-media-apps-you-should-be-paying"
+                  <a href=""
                     className="blog-title-link-block w-inline-block">
                     <h3 className="blog-title">
                       13 social media apps you should be paying
                     </h3>
                   </a><a data-w-id="f6281052-dab0-f6c6-67e5-8a04cf8c962e"
-                    href="post/13-social-media-apps-you-should-be-paying"
+                    href=""
                     className="blog-details-link-block w-inline-block">
                     <div className="blog-link-text">Read More</div>
                     <div
@@ -65,7 +65,7 @@ function Blog() {
               <div className="blog-wrapper">
                 <div className="blog-thumbnail">
                   <img alt="Blog  Thumb Image" loading="lazy"
-                    src="../assets.website-files.com/63f1bfe469cfc0a7a042f1e8/63fdc030b41ee7e8e76d783f_2.jpg"
+                    src="images/blog-2.jpg"
                     className="blog-thumb-image" />
                 </div>
                 <div className="blog-content-wrapper">
@@ -75,13 +75,13 @@ function Blog() {
                       loading="lazy" alt="Calnder Icom" className="calender-icon" />
                     <div>March 8, 2023</div>
                   </div>
-                  <a href="post/12-social-apps-you-should-be-paying-attention-to"
+                  <a href=""
                     className="blog-title-link-block w-inline-block">
                     <h3 className="blog-title">
                       12 social apps you should be paying attention to
                     </h3>
                   </a><a data-w-id="f6281052-dab0-f6c6-67e5-8a04cf8c962e"
-                    href="post/12-social-apps-you-should-be-paying-attention-to"
+                    href=""
                     className="blog-details-link-block w-inline-block">
                     <div className="blog-link-text">Read More</div>
                     <div
@@ -111,7 +111,7 @@ function Blog() {
               <div className="blog-wrapper">
                 <div className="blog-thumbnail">
                   <img alt="Blog  Thumb Image" loading="lazy"
-                    src="../assets.website-files.com/63f1bfe469cfc0a7a042f1e8/63f5df5e1a6291360f4b0814_1.jpg"
+                    src="images/blog-3.jpg"
                     className="blog-thumb-image" />
                 </div>
                 <div className="blog-content-wrapper">
@@ -121,13 +121,13 @@ function Blog() {
                       loading="lazy" alt="Calnder Icom" className="calender-icon" />
                     <div>March 8, 2023</div>
                   </div>
-                  <a href="post/11-social-media-apps-should-be-paying-to"
+                  <a href=""
                     className="blog-title-link-block w-inline-block">
                     <h3 className="blog-title">
                       11 social media apps should be paying to
                     </h3>
                   </a><a data-w-id="f6281052-dab0-f6c6-67e5-8a04cf8c962e"
-                    href="post/11-social-media-apps-should-be-paying-to"
+                    href=""
                     className="blog-details-link-block w-inline-block">
                     <div className="blog-link-text">Read More</div>
                     <div

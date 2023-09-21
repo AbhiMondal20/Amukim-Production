@@ -10,7 +10,7 @@ function Testimonials() {
           <div className="testimonial-image-block">
             <img src="../assets.website-files.com/63f05cba0a6a4d0a5deb5950/63f5aac5a7cb80b5e061e50f_1.jpg"
               loading="lazy"
-              sizes="(max-width: 479px) 89vw, (max-width: 991px) 400px, (max-width: 1279px) 368.0625px, 500px" srcset="
+              sizes="(max-width: 479px) 89vw, (max-width: 991px) 400px, (max-width: 1279px) 368.0625px, 500px" srcSet="
                 https://assets.website-files.com/63f05cba0a6a4d0a5deb5950/63f5aac5a7cb80b5e061e50f_1-p-500.jpg 500w,
                 https://assets.website-files.com/63f05cba0a6a4d0a5deb5950/63f5aac5a7cb80b5e061e50f_1.jpg       500w
               " alt="Testimonial Image" className="testimonial-image" />

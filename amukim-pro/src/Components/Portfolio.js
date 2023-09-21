@@ -1,4 +1,5 @@
 import React from 'react'
+import Video from './Video'
 
 function Portfolio() {
   return (
@@ -9,204 +10,39 @@ function Portfolio() {
           <div className="section-title-block center-block">
             <div className="section-intro-block">My album</div>
             <h2 className="section-title">
-              Photography portfolio by Pixoto Studio
+            Captivating Video Creations by Amukim
             </h2>
           </div>
         </div>
         <div className="portfolio-wrapper-block">
-          <div className="portfolio-collection-list w-dyn-list">
+          {/* <div className="portfolio-collection-list w-dyn-list">
             <div role="list" className="portfolio-list w-dyn-items">
               <div role="listitem" className="portfolio-item w-dyn-item">
                 <div className="single-portfolio-wrapper">
                   <div className="single-portfolio-thumb-block">
-                    <img alt="Single Portfolio Image" loading="lazy"
-                      src="images/img1.jpg"
-                      sizes="(max-width: 479px) 100vw, (max-width: 767px) 96vw, (max-width: 991px) 97vw, (max-width: 1279px) 466px, 570px"
-                      srcset="
-                        https://assets.website-files.com/63f1bfe469cfc0a7a042f1e8/63f34e768a2d472741c048ff_3-p-500.jpg 500w,
-                        https://assets.website-files.com/63f1bfe469cfc0a7a042f1e8/63f34e768a2d472741c048ff_3.jpg       570w
-                      " className="single-portfolio-image" />
-                    <div className="single-portfolio-overlay-block"></div>
-                    <div className="single-portfolio-content">
-                      <a href="portfolio/life-in-focus" className="single-portfolio-title-block w-inline-block">
-                        <h3 className="single-portfolio-title">
-                          Life in Focus
-                        </h3>
-                      </a>
-                      <p className="single-portfolio-summary">
-                        It is a long established fact that a reader will be
-                        distr by the readabll content of a page when
-                      </p>
-                      <div className="single-portfolio-content-inner">
-                        <a href="portfolio/life-in-focus" className="single-portfolio-read-more-button">Read More</a>
-                        <div className="single-portfolio-place-camera-name">
-                          <div className="single-portfolio-info-block">
-                            <img
-                              src="https://assets.website-files.com/63f05cba0a6a4d0a5deb5950/63f358812e88900ac4da7a0f_camera.svg"
-                              loading="lazy" alt="Single Portfolio Info Icon" className="single-portfolio-info-icon" />
-                            <div className="single-portfolio-info-text">
-                              Sony Alpha
-                            </div>
-                          </div>
-                          <div className="single-portfolio-info-block">
-                            <img
-                              src="https://assets.website-files.com/63f05cba0a6a4d0a5deb5950/63f358c2863d580f6769084d_location-icon.svg"
-                              loading="lazy" alt="Single Portfolio Info Icon" className="single-portfolio-info-icon" />
-                            <div className="single-portfolio-info-text">
-                              New York
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
+                  <video controlsList="nodownload" controls width="570" height="200px" className="single-portfolio-video" >
+                    <source src="images/video1.mp4" type="video/mp4" />
+                    Your browser does not support the video tag.
+                  </video>
                   </div>
                 </div>
               </div>
               <div role="listitem" className="portfolio-item w-dyn-item">
                 <div className="single-portfolio-wrapper">
                   <div className="single-portfolio-thumb-block">
-                    <img alt="Single Portfolio Image" loading="lazy"
-                      src="../assets.website-files.com/63f1bfe469cfc0a7a042f1e8/63f34eb76b5db15506ab4afb_4.jpg"
-                      sizes="(max-width: 479px) 100vw, (max-width: 767px) 96vw, (max-width: 991px) 97vw, (max-width: 1279px) 466px, 570px"
-                      srcset="
-                        https://assets.website-files.com/63f1bfe469cfc0a7a042f1e8/63f34eb76b5db15506ab4afb_4-p-500.jpg 500w,
-                        https://assets.website-files.com/63f1bfe469cfc0a7a042f1e8/63f34eb76b5db15506ab4afb_4.jpg       570w
-                      " className="single-portfolio-image" />
-                    <div className="single-portfolio-overlay-block"></div>
-                    <div className="single-portfolio-content">
-                      <a href="portfolio/faces-of-the-world" className="single-portfolio-title-block w-inline-block">
-                        <h3 className="single-portfolio-title">
-                          Faces of the World
-                        </h3>
-                      </a>
-                      <p className="single-portfolio-summary">
-                        It is a long established fact that a reader will be
-                        distr by the readabll content of a page when
-                      </p>
-                      <div className="single-portfolio-content-inner">
-                        <a href="portfolio/faces-of-the-world" className="single-portfolio-read-more-button">Read
-                          More</a>
-                        <div className="single-portfolio-place-camera-name">
-                          <div className="single-portfolio-info-block">
-                            <img
-                              src="https://assets.website-files.com/63f05cba0a6a4d0a5deb5950/63f358812e88900ac4da7a0f_camera.svg"
-                              loading="lazy" alt="Single Portfolio Info Icon" className="single-portfolio-info-icon" />
-                            <div className="single-portfolio-info-text">
-                              Sony Alpha
-                            </div>
-                          </div>
-                          <div className="single-portfolio-info-block">
-                            <img
-                              src="https://assets.website-files.com/63f05cba0a6a4d0a5deb5950/63f358c2863d580f6769084d_location-icon.svg"
-                              loading="lazy" alt="Single Portfolio Info Icon" className="single-portfolio-info-icon" />
-                            <div className="single-portfolio-info-text">
-                              New York
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
+                  <video controlsList="nodownload" controls width="570"  className="single-portfolio-video">
+                    <source src="images/video2.mp4" type="video/mp4" />
+                    Your browser does not support the video tag.
+                  </video>
                   </div>
                 </div>
               </div>
-              <div role="listitem" className="portfolio-item w-dyn-item">
-                <div className="single-portfolio-wrapper">
-                  <div className="single-portfolio-thumb-block">
-                    <img alt="Single Portfolio Image" loading="lazy"
-                      src="../assets.website-files.com/63f1bfe469cfc0a7a042f1e8/63fd977249243271b1ca52bd_image.jpg"
-                      sizes="(max-width: 479px) 100vw, (max-width: 767px) 96vw, (max-width: 991px) 97vw, (max-width: 1279px) 466px, 570px"
-                      srcset="
-                        https://assets.website-files.com/63f1bfe469cfc0a7a042f1e8/63fd977249243271b1ca52bd_image-p-500.jpg 500w,
-                        https://assets.website-files.com/63f1bfe469cfc0a7a042f1e8/63fd977249243271b1ca52bd_image.jpg       570w
-                      " className="single-portfolio-image" />
-                    <div className="single-portfolio-overlay-block"></div>
-                    <div className="single-portfolio-content">
-                      <a href="portfolio/essence-of-nature" className="single-portfolio-title-block w-inline-block">
-                        <h3 className="single-portfolio-title">
-                          Essence of Nature
-                        </h3>
-                      </a>
-                      <p className="single-portfolio-summary">
-                        It is a long established fact that a reader will be
-                        distr by the readabll content of a page when
-                      </p>
-                      <div className="single-portfolio-content-inner">
-                        <a href="portfolio/essence-of-nature" className="single-portfolio-read-more-button">Read
-                          More</a>
-                        <div className="single-portfolio-place-camera-name">
-                          <div className="single-portfolio-info-block">
-                            <img
-                              src="https://assets.website-files.com/63f05cba0a6a4d0a5deb5950/63f358812e88900ac4da7a0f_camera.svg"
-                              loading="lazy" alt="Single Portfolio Info Icon" className="single-portfolio-info-icon" />
-                            <div className="single-portfolio-info-text">
-                              Sony Alpha
-                            </div>
-                          </div>
-                          <div className="single-portfolio-info-block">
-                            <img
-                              src="https://assets.website-files.com/63f05cba0a6a4d0a5deb5950/63f358c2863d580f6769084d_location-icon.svg"
-                              loading="lazy" alt="Single Portfolio Info Icon" className="single-portfolio-info-icon" />
-                            <div className="single-portfolio-info-text">
-                              New York
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div role="listitem" className="portfolio-item w-dyn-item">
-                <div className="single-portfolio-wrapper">
-                  <div className="single-portfolio-thumb-block">
-                    <img alt="Single Portfolio Image" loading="lazy"
-                      src="../assets.website-files.com/63f1bfe469cfc0a7a042f1e8/63fd9798492432446fca56cb_image-2.jpg"
-                      sizes="(max-width: 479px) 100vw, (max-width: 767px) 96vw, (max-width: 991px) 97vw, (max-width: 1279px) 466px, 570px"
-                      srcset="
-                        https://assets.website-files.com/63f1bfe469cfc0a7a042f1e8/63fd9798492432446fca56cb_image-2-p-500.jpg 500w,
-                        https://assets.website-files.com/63f1bfe469cfc0a7a042f1e8/63fd9798492432446fca56cb_image-2.jpg       570w
-                      " className="single-portfolio-image" />
-                    <div className="single-portfolio-overlay-block"></div>
-                    <div className="single-portfolio-content">
-                      <a href="portfolio/reflections-of-life" className="single-portfolio-title-block w-inline-block">
-                        <h3 className="single-portfolio-title">
-                          Reflections of Life
-                        </h3>
-                      </a>
-                      <p className="single-portfolio-summary">
-                        It is a long established fact that a reader will be
-                        distr by the readabll content of a page when
-                      </p>
-                      <div className="single-portfolio-content-inner">
-                        <a href="portfolio/reflections-of-life" className="single-portfolio-read-more-button">Read
-                          More</a>
-                        <div className="single-portfolio-place-camera-name">
-                          <div className="single-portfolio-info-block">
-                            <img
-                              src="https://assets.website-files.com/63f05cba0a6a4d0a5deb5950/63f358812e88900ac4da7a0f_camera.svg"
-                              loading="lazy" alt="Single Portfolio Info Icon" className="single-portfolio-info-icon" />
-                            <div className="single-portfolio-info-text">
-                              Sony Alpha
-                            </div>
-                          </div>
-                          <div className="single-portfolio-info-block">
-                            <img
-                              src="https://assets.website-files.com/63f05cba0a6a4d0a5deb5950/63f358c2863d580f6769084d_location-icon.svg"
-                              loading="lazy" alt="Single Portfolio Info Icon" className="single-portfolio-info-icon" />
-                            <div className="single-portfolio-info-text">
-                              New York
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
+             
             </div>
-          </div>
+          </div> */}
+        <Video/>
           <div className="portfolio-link-block">
-            <a href="portfolio" className="portfolio-link w-inline-block">
+            <a href="https://www.youtube.com/Amukimproduction" target='_blank' className="portfolio-link w-inline-block">
               <div className="portfolio-link-text">View All Portfolio</div>
               <div className="button-arrow-icon w-embed">
                 <svg xmlns="http://www.w3.org/2000/svg" width="21" height="15" viewBox="0 0 21 15" fill="none">

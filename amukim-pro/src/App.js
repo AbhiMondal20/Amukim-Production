@@ -13,7 +13,7 @@ import Portfolio from "./Components/Portfolio";
 function App() {
   return (
     <>
-      <div class="page-wrapper">
+      <div className="page-wrapper">
         <Header />
         <Slider/>
         <About/>
