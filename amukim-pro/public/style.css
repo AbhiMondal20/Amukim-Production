@@ -354,9 +354,13 @@ html {
     word-spacing: normal;
     word-wrap: normal;
   }
+
+  /* Update on 21-09-2023 */
+
   .w-webflow-badge {
     position: fixed !important;
-    display: inline-block !important;
+    /* display: inline-block !important; */
+    display: none;
     visibility: visible !important;
     z-index: 2147483647 !important;
     top: auto !important;
@@ -4530,7 +4534,7 @@ html {
   
   body {
     background-color: #1a2835;
-    background-image: url("../63fee4cdbc98397464551660_breadcrumb-image.jpg");
+    background-image: url("images/breadcrumb-image.jpg");
     background-position: 50% 0%;
     background-size: auto;
     background-repeat: no-repeat;
@@ -5218,15 +5222,15 @@ html {
     -ms-flex-align: center;
     align-items: center;
     background-color: #1a2835;
-    background-image: url("../63fdda684486a5a1da1e4826_slider-image-1.jpg");
+    background-image: url("images/slider-image-1.jpg");
     background-position: 50% 50%;
     background-size: cover;
     background-repeat: no-repeat;
   }
   
   .single-slider.single-slider-two {
-    background-image: url("../63fdd993039baa58bd9bf58b_slider-image-2.jpg"),
-      url("../63f0b937e2860c5c7648513e_slider-images-1.png");
+    background-image: url("images/slider-image-2.jpg"),
+      url("images/slider-images-1.png");
     background-position: 50% 50%, 50% 50%;
     background-size: cover, cover;
     background-repeat: no-repeat, no-repeat;
@@ -5714,7 +5718,7 @@ html {
   .call-to-action {
     padding-top: 100px;
     padding-bottom: 100px;
-    background-image: url("../63f59a17e376070d24a17a26_bg.png");
+    background-image: url("images/63f59a17e376070d24a17a26_bg.png");
     background-position: 50% 50%;
     background-size: cover;
     background-repeat: no-repeat;

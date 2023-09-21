@@ -20,7 +20,7 @@ function Portfolio() {
                 <div className="single-portfolio-wrapper">
                   <div className="single-portfolio-thumb-block">
                     <img alt="Single Portfolio Image" loading="lazy"
-                      src="../assets.website-files.com/63f1bfe469cfc0a7a042f1e8/63f34e768a2d472741c048ff_3.jpg"
+                      src="images/img1.jpg"
                       sizes="(max-width: 479px) 100vw, (max-width: 767px) 96vw, (max-width: 991px) 97vw, (max-width: 1279px) 466px, 570px"
                       srcset="
                         https://assets.website-files.com/63f1bfe469cfc0a7a042f1e8/63f34e768a2d472741c048ff_3-p-500.jpg 500w,

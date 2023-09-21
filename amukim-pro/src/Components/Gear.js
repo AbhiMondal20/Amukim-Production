@@ -10,7 +10,7 @@ function Gear() {
               <div className="my-gear-image-inner">
                 <div className="my-gear-single-image-block">
                   <img
-                    src="../assets.website-files.com/63f05cba0a6a4d0a5deb5950/63f5a162e975d19b773eca4f_1.jpg"
+                    src="images/1.jpg"
                     loading="lazy"
                     alt="My Gear Single Image"
                     className="my-gear-single-image"
@@ -19,7 +19,7 @@ function Gear() {
                 <div className="my-gear-single-image-inner">
                   <div className="my-gear-single-image-two">
                     <img
-                      src="../assets.website-files.com/63f05cba0a6a4d0a5deb5950/63f5a18765e42c00e3bed890_2.jpg"
+                      src="images/2.jpg"
                       loading="lazy"
                       alt="My Gear Single Image"
                       className="my-gear-single-image"
@@ -27,7 +27,7 @@ function Gear() {
                   </div>
                   <div className="my-gear-single-image-three">
                     <img
-                      src="../assets.website-files.com/63f05cba0a6a4d0a5deb5950/63f5a194b66dd03e3ae6e010_3.jpg"
+                      src="images/3.jpg"
                       loading="lazy"
                       alt="My Gear Single Image"
                       className="my-gear-single-image"
