@@ -48,41 +48,14 @@ function Header() {
                                         </a>
                                     </li>
                                     <li className="nav-list-item">
-                                        <a href="shop" className="nav-link">
-                                            Shop
+                                        <a href="gallery" className="nav-link">
+                                            Gallery
                                         </a>
                                     </li>
-                                    <li className="nav-list-item dropdown-list-item">
-                                        <div
-                                            data-hover="false"
-                                            data-delay="0"
-                                            className="nav-dropdown w-dropdown"
-                                        >
-                                            <div className="nav-dropdown-toggle w-dropdown-toggle">
-                                                <div className="nav-dropdown-icon w-icon-dropdown-toggle"></div>
-                                                <div>Pages</div>
-                                            </div>
-                                            <nav className="nav-dropdown-list shadow-three mobile-shadow-hide w-dropdown-list">
-                                                <a
-                                                    href="portfolio"
-                                                    className="nav-dropdown-link w-dropdown-link"
-                                                >
-                                                    Portfolio
-                                                </a>
-                                                <a
-                                                    href="service-page"
-                                                    className="nav-dropdown-link w-dropdown-link"
-                                                >
-                                                    Services
-                                                </a>
-                                                <a
-                                                    href="style-guide"
-                                                    className="nav-dropdown-link w-dropdown-link"
-                                                >
-                                                    Style Guide
-                                                </a>
-                                            </nav>
-                                        </div>
+                                    <li className="nav-list-item">
+                                        <a href="services" className="nav-link">
+                                            Services
+                                        </a>
                                     </li>
                                     <li className="nav-list-item">
                                         <a href="blog" className="nav-link">

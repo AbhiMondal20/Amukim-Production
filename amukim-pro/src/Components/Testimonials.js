@@ -8,11 +8,11 @@ function Testimonials() {
       <div className="container w-container">
         <div className="testimonial-wrapper">
           <div className="testimonial-image-block">
-            <img src="../assets.website-files.com/63f05cba0a6a4d0a5deb5950/63f5aac5a7cb80b5e061e50f_1.jpg"
+            <img src="images/testi2.jpg"
               loading="lazy"
               sizes="(max-width: 479px) 89vw, (max-width: 991px) 400px, (max-width: 1279px) 368.0625px, 500px" srcSet="
-                https://assets.website-files.com/63f05cba0a6a4d0a5deb5950/63f5aac5a7cb80b5e061e50f_1-p-500.jpg 500w,
-                https://assets.website-files.com/63f05cba0a6a4d0a5deb5950/63f5aac5a7cb80b5e061e50f_1.jpg       500w
+              images/testi2.jpg 500w,
+              images/testi2.jpg       500w
               " alt="Testimonial Image" className="testimonial-image" />
           </div>
           <div className="testimonial-content-block">
@@ -20,7 +20,7 @@ function Testimonials() {
               <div className="section-title-block">
                 <div className="section-intro-block">TESTIMONIALSt</div>
                 <h2 className="section-title">
-                  Don&#x27;t take our word for it, take theirs!
+                Exceptional video content creators! Highly recommend their expertise.
                 </h2>
               </div>
             </div>
@@ -32,30 +32,24 @@ function Testimonials() {
                   <div className="testimonial-single-item w-slide">
                     <div className="testimonial-text-block">
                       <div className="testimonial-meta-block">
-                        <div className="author-name">Tammy Powell</div>
-                        <div className="author-title">Photo Viewer</div>
+                        <div className="author-name">Bittu Rauth</div>
+                        <div className="author-title">Viewer</div>
+                        ⭐⭐⭐⭐⭐
                       </div>
                       <p className="testimonial-text">
-                        There are many variations of passages of Lorem Ipsum
-                        available but the maj have suffered alteration in some
-                        form, by injected humour, or randomis words which
-                        don&#x27;t look even slightly believable. If you are
-                        going
+                        I am delighted to write this testimonial on behalf of Amukim Productions, and I, Bittu Rauth, consider it an honor to share my experiences with this exceptional company.
                       </p>
                     </div>
                   </div>
                   <div className="testimonial-single-item w-slide">
                     <div className="testimonial-text-block">
                       <div className="testimonial-meta-block">
-                        <div className="author-name">Tammy Powell</div>
-                        <div className="author-title">Photo Viewer</div>
+                        <div className="author-name">Abhi</div>
+                        <div className="author-title">Viewer</div>
+                        ⭐⭐⭐⭐⭐
                       </div>
                       <p className="testimonial-text">
-                        There are many variations of passages of Lorem Ipsum
-                        available but the maj have suffered alteration in some
-                        form, by injected humour, or randomis words which
-                        don&#x27;t look even slightly believable. If you are
-                        going
+                      Amukim Productions has truly redefined entertainment with their innovative approach and exceptional storytelling. From the moment I stepped into their cinematic universe, I was hooked, and my experience has been nothing short of extraordinary.
                       </p>
                     </div>
                   </div>

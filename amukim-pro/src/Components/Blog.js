@@ -7,9 +7,9 @@ function Blog() {
       <div className="container w-container">
         <div className="blog-title-block">
           <div className="section-title-block center-block">
-            <div className="section-intro-block">OUR blog &amp; News</div>
+            <div className="section-intro-block">My blog &amp; News</div>
             <h2 className="section-title">
-              Browse our blog &amp; news on Photography
+              Browse My blog &amp; news on Photography
             </h2>
           </div>
         </div>
@@ -119,12 +119,12 @@ function Blog() {
                     <img
                       src="https://assets.website-files.com/63f05cba0a6a4d0a5deb5950/63f5e9e72ad9a69dbc78309b_calnder-icon.svg"
                       loading="lazy" alt="Calnder Icom" className="calender-icon" />
-                    <div>March 8, 2023</div>
+                    <div>September 22, 2023</div>
                   </div>
                   <a href=""
                     className="blog-title-link-block w-inline-block">
                     <h3 className="blog-title">
-                      11 social media apps should be paying to
+                    Canon DSLR cameras: Precision, Performance, and Stunning Visuals.
                     </h3>
                   </a><a data-w-id="f6281052-dab0-f6c6-67e5-8a04cf8c962e"
                     href=""

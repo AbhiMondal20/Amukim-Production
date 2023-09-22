@@ -19,8 +19,7 @@ function Footer() {
                   />
                 </a>
                 <p className="footer-text">
-                  There are many variations passag of Lorem Ipsum available but
-                  the
+                Elevating Stories through Captivating Videography, Your Vision, My Lens.
                 </p>
                 <div className="footer-social-block">
                   <a
@@ -42,15 +41,15 @@ function Footer() {
                     target="_blank"
                     className="social-icon-link-block w-inline-block"
                   >
-                   <i className="fa-brands fa-youtube"></i>
+                    <i className="fa-brands fa-youtube"></i>
                   </a>
-                  <a
+                  {/* <a
                     href="https://www.linkedin.com/"
                     target="_blank"
                     className="social-icon-link-block w-inline-block"
                   >
-                   <i className="fa-brands fa-threads"></i>
-                  </a>
+                    <i className="fa-brands fa-threads"></i>
+                  </a> */}
                 </div>
                 <div className="webflow-info-block">
                   <div className="webflow-info-circle"></div>
@@ -61,7 +60,7 @@ function Footer() {
                       target="_blank"
                       className="webflow-info-link"
                     >
-                       &nbsp;Abhitechbot
+                      &nbsp;Abhitechbot
                     </a>
                   </div>
                 </div>
@@ -97,9 +96,6 @@ function Footer() {
                     Testimonial
                   </a>
                   <a href="#" className="footer-link">
-                    Style Guide
-                  </a>
-                  <a href="#" className="footer-link">
                     Change Log
                   </a>
                   <a href="#" className="footer-link">
@@ -110,7 +106,7 @@ function Footer() {
                   <div className="footer-title">Subscribe</div>
                   <div className="contact-number-block">
                     <p className="subscribe-text">
-                      There are many variations passag of Lorem Ipsum available.
+                    Capturing Moments, Crafting Stories, Shaping Memories.
                     </p>
                     <div className="subscribe-form w-form">
                       <form
@@ -169,6 +165,10 @@ function Footer() {
           </div>
         </div>
       </footer>
+      <a href="https://wa.me/+918906369948?text=Hi%20Amukim%20Production" class="whatsapp_float" target="_blank" rel="noopener noreferrer">
+        <i class="fa-brands fa-whatsapp"></i>
+      </a>
+
     </>
   );
 }
