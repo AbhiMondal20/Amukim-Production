@@ -1,6 +1,6 @@
 // VideoPlayer.js
 import React, { useState } from 'react';
-import '../Video.css';
+import '../../Video.css';
 
 const Video = () => {
   const [activeVideo, setActiveVideo] = useState('');

@@ -8,9 +8,9 @@ function Service() {
         <div className="service-title-block-wrapper">
           <div className="service-title-block-inner">
             <div className="section-title-block">
-              <div className="section-intro-block">My SERVICES</div>
+              <div className="section-intro-block">Our SERVICES</div>
               <h2 className="section-title">
-              I have the experience to make of your Video 
+              We have the experience to make of your Video 
               </h2>
             </div>
           </div>
@@ -47,11 +47,12 @@ function Service() {
                         <div className="service-slider-single-content">
                           <a href="" className="service-slider-single-link-block w-inline-block">
                             <h3 className="service-slider-single-title">
-                              Photography
+                            Engaging Video Production
                             </h3>
                           </a>
                           <p className="service-slider-single-summary">
-                            Creating captivating visual stories through the lens, one frame at a time.
+                          We create captivating video content for a variety of purposes, including marketing, social media, tutorials, and more. Our team of experienced videographers and editors ensures that your message comes to life through the power of video.
+
                           </p>
                         </div>
                         <a href="" className="service-slider-single-link w-inline-block">
@@ -87,11 +88,12 @@ function Service() {
                         <div className="service-slider-single-content">
                           <a href="" className="service-slider-single-link-block w-inline-block">
                             <h3 className="service-slider-single-title">
-                              Videography
+                            Creative Storytelling
                             </h3>
                           </a>
                           <p className="service-slider-single-summary">
-                          Crafting captivating videos that tell your unique story through expert videography.
+                          We specialize in telling your unique story through visual narratives. From concept development to post-production, we're dedicated to crafting compelling videos that resonate with your audience.
+
                           </p>
                         </div>
                         <a href="#" className="service-slider-single-link w-inline-block">
@@ -128,11 +130,12 @@ function Service() {
                           <a href=""
                             className="service-slider-single-link-block w-inline-block">
                             <h3 className="service-slider-single-title">
-                              Aerial Photography
+                            High-Quality Editing
                             </h3>
                           </a>
                           <p className="service-slider-single-summary">
-                          Specializing in stunning aerial photography to elevate your visual storytelling.
+                          Our video editing team ensures a polished final product that aligns with your brand's style. We pay close attention to details, transitions, and visual effects to enhance the overall viewer experience.
+
                           </p>
                         </div>
                         <a href="#" className="service-slider-single-link w-inline-block">
@@ -168,11 +171,11 @@ function Service() {
                         <div className="service-slider-single-content">
                           <a href="" className="service-slider-single-link-block w-inline-block">
                             <h3 className="service-slider-single-title">
-                              Flashy Frames
+                            Customized Video Solutions
                             </h3>
                           </a>
                           <p className="service-slider-single-summary">
-                          Crafting captivating video content through flashy frames, sparking audience engagement.
+                          Whether you need corporate videos, product showcases, event coverage, or any other video content, we tailor our services to meet your specific requirements.
                           </p>
                         </div>
                         <a href="#" className="service-slider-single-link w-inline-block">
@@ -209,11 +212,12 @@ function Service() {
                           <a href=""
                             className="service-slider-single-link-block w-inline-block">
                             <h3 className="service-slider-single-title">
-                              Flash Photography
+                            Multi-Platform Optimization
                             </h3>
                           </a>
                           <p className="service-slider-single-summary">
-                          Capturing moments in a flash, telling stories through vivid photography.
+                          We format videos to fit various social media platforms, ensuring your content looks stunning on YouTube, Instagram, Facebook, and more.
+
                           </p>
                         </div>
                         <a href="#" className="service-slider-single-link w-inline-block">
@@ -250,11 +254,12 @@ function Service() {
                           <a href="service/snapshot-studios"
                             className="service-slider-single-link-block w-inline-block">
                             <h3 className="service-slider-single-title">
-                              Snapshot Studios
+                            Professional Photography
                             </h3>
                           </a>
                           <p className="service-slider-single-summary">
-                          haping stories through innovative video content creation and visual storytelling.
+                          Our photography services encompass a wide range of styles, including portrait, landscape, product, and event photography. We capture the essence of your subject with an artistic and professional touch.
+
                           </p>
                         </div>
                         <a href="#" className="service-slider-single-link w-inline-block">

@@ -3,13 +3,13 @@ import React from 'react'
 function Blog() {
   return (
     <>
-          <div className="blog-section">
+    <div className="blog-section">
       <div className="container w-container">
         <div className="blog-title-block">
           <div className="section-title-block center-block">
-            <div className="section-intro-block">My blog &amp; News</div>
+            <div className="section-intro-block">Our blog &amp; News</div>
             <h2 className="section-title">
-              Browse My blog &amp; news on Photography
+              Blog &amp; News on Photography
             </h2>
           </div>
         </div>

@@ -38,9 +38,9 @@ function Gear() {
             </div>
             <div className="my-gear-content-block">
               <div className="section-title-block">
-                <div className="section-intro-block">What’s my gear?</div>
+                <div className="section-intro-block">What’s our gear?</div>
                 <h2 className="section-title">
-                  I have the experience to make of your photo
+                  We have the experience to make of your photo
                 </h2>
               </div>
               <div className="my-gear-list-wrapper">

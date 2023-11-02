@@ -8,7 +8,7 @@ function Portfolio() {
       <div className="container w-container">
         <div className="portfolio-title-block">
           <div className="section-title-block center-block">
-            <div className="section-intro-block">My album</div>
+            <div className="section-intro-block">Our album</div>
             <h2 className="section-title">
             Captivating Video Creations by Amukim
             </h2>

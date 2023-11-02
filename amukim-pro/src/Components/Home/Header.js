@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 
 function Header() {
     return (
@@ -16,8 +17,8 @@ function Header() {
                 >
                     <div className="container w-container">
                         <div className="navbar-wrapper">
-                            <a
-                                href="index"
+                            <Link
+                                to="/"
                                 aria-current="page"
                                 className="navbar-brand w-nav-brand w--current"
                             >
@@ -29,56 +30,52 @@ function Header() {
                                     height="100px"
                                     width="100px"
                                 />
-                            </a>
+                            </Link>
 
                             <nav role="navigation" className="nav-menu-wrapper w-nav-menu">
                                 <ul role="list" className="nav-menu w-list-unstyled">
                                     <li className="nav-list-item">
-                                        <a
-                                            href="index"
-                                            aria-current="page"
-                                            className="nav-link w--current"
-                                        >
+                                        <Link to="/" aria-current="page" className="nav-link w--current">
                                             Home
-                                        </a>
+                                        </Link>
                                     </li>
                                     <li className="nav-list-item">
-                                        <a href="about" className="nav-link">
+                                        <Link to="/about" className="nav-link">
                                             About
-                                        </a>
+                                        </Link>
                                     </li>
                                     <li className="nav-list-item">
-                                        <a href="gallery" className="nav-link">
+                                        <Link to="/gallery" className="nav-link">
                                             Gallery
-                                        </a>
+                                        </Link>
                                     </li>
                                     <li className="nav-list-item">
-                                        <a href="services" className="nav-link">
+                                        <Link to="/services" className="nav-link">
                                             Services
-                                        </a>
+                                        </Link>
                                     </li>
                                     <li className="nav-list-item">
-                                        <a href="blog" className="nav-link">
+                                        <Link to="/blog" className="nav-link">
                                             Blog
-                                        </a>
+                                        </Link>
                                     </li>
                                     <li className="nav-list-item">
-                                        <a href="contact" className="nav-link">
+                                        <Link to="/contact" className="nav-link">
                                             Contact
-                                        </a>
+                                        </Link>
                                     </li>
                                 </ul>
                             </nav>
 
                             <div className="navbar-right-block">
                             <div
-                  data-node-type="commerce-cart-wrapper"
-                  data-open-product=""
-                  data-wf-cart-type="rightSidebar"
-                  data-wf-cart-query="query Dynamo2"
-                  data-wf-page-link-href-prefix=""
-                  className="w-commerce-commercecartwrapper"
-                >
+                                data-node-type="commerce-cart-wrapper"
+                                data-open-product=""
+                                data-wf-cart-type="rightSidebar"
+                                data-wf-cart-query="query Dynamo2"
+                                data-wf-page-link-href-prefix=""
+                                className="w-commerce-commercecartwrapper"
+                            >
                                 
                                     <div
                                         data-node-type="commerce-cart-container-wrapper"
@@ -94,8 +91,8 @@ function Header() {
                                                 <h4 className="w-commerce-commercecartheading cart-header-text">
                                                     Your Cart
                                                 </h4>
-                                                <a
-                                                    href="#"
+                                                <Link
+                                                    to="#"
                                                     data-node-type="commerce-cart-close-link"
                                                     role="button"
                                                     aria-label="Close cart"
@@ -106,7 +103,7 @@ function Header() {
                                                         loading="lazy"
                                                         alt="Close Icon"
                                                     />
-                                                </a>
+                                                </Link>
                                             </div>
                                             <div className="w-commerce-commercecartformwrapper">
 

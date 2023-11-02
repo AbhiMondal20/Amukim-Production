@@ -1,4 +1,6 @@
 import React from 'react'
+import { Link } from 'react-router-dom'
+
 
 function Slider() {
     return (
@@ -20,7 +22,7 @@ function Slider() {
                                         Unlocking creativity through dynamic visuals. I craft engaging video content that captivates, informs, and inspires your audience. Let's tell your story through film.
                                         </p>
                                         <div className="slider-button-block">
-                                            <a href="contact" className="button-primary w-inline-block">
+                                            <Link to="contact" className="button-primary w-inline-block">
                                                 <div className="button-text">Get in touch</div>
                                                 <div className="button-arrow-icon w-embed">
                                                     <svg xmlns="http://www.w3.org/2000/svg" width="21" height="15" viewBox="0 0 21 15" fill="none">
@@ -29,7 +31,7 @@ function Slider() {
                                                             fill="currentColor" />
                                                     </svg>
                                                 </div>
-                                            </a><a href="about" className="button-primary slider-button slider-button-two w-inline-block">
+                                            </Link><Link to="about" className="button-primary slider-button slider-button-two w-inline-block">
                                                 <div className="button-text">Read More</div>
                                                 <div className="button-arrow-icon w-embed">
                                                     <svg xmlns="http://www.w3.org/2000/svg" width="21" height="15" viewBox="0 0 21 15" fill="none">
@@ -38,7 +40,7 @@ function Slider() {
                                                             fill="currentColor" />
                                                     </svg>
                                                 </div>
-                                            </a>
+                                            </Link>
                                         </div>
                                     </div>
                                 </div>
